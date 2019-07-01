@@ -15,9 +15,9 @@
     "description": "Edición fichero de contexto WMC",
     "text": "Plugin de Mapea para poder guardar la sesión de trabajo mediante un fichero de contexto de mapa (WMC), permitiendo poder recuperar, o compartir, dicha sesión en cualquier momento.",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
